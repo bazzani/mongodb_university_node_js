@@ -1,0 +1,732 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+			"settings":
+			{
+				"buffer_size": 2718,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+			"settings":
+			{
+				"buffer_size": 2965,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "week_3_schema_design/homework_3_1/app.js",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/mongodb-university.sublime-project",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_2_crud",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_2_crud/homework_2_1",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_2_crud/homework_2_2",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_2/hw3-2and3-3",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3/blog"
+	],
+	"file_history":
+	[
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_1/app.js",
+		"/Users/barry/dev/projects/mongodb_university_node_js/.gitignore",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_1/app.js",
+		"/Users/barry/dev/projects/mongodb_university_node_js/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_updating/update_operator/update_operator/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_updating/update_single/update_single/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/users.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3/blog/routes/content.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/routes/content.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/homework_2_3/hw2-3/hw2-3/blog/posts.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3/blog/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/homework_2_2/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/homework_2_3/hw2-3/hw2-3/blog/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/homework_2_3/hw2-3/hw2-3/blog/users.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/homework2_2/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_find_findone_and_cursors/find_cursors/find_cursors/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_find_findone_and_cursors/grades.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_skip_limit_and_sort/skip_limit_sort/skip_limit_sort/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_find_findone_and_cursors/findOne/findOne/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_3_schema_design/homework_3_1/students.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_using_dot_notation/dot_notation/dot_notation/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_updating/update_multi/update_multi/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_2_crud/node_js_driver_using_field_projection/find_projection/find_projection/app.js",
+		"/Users/barry/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_1_introduction/homework_1_2/hw1-2/hw1-2/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/week_1_introduction/homework_1_3/hw1-3/hw1-3/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/mongodb-university.sublime-project",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/homework_1_3/hw1-3/hw1-3/package.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/homework_1_3/hw1-3/hw1-3/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_swig_and_mongodb/hello_world_combined/hello_world_combined/package.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/homework_1_1/hw1-1/hw1-1/dump/m101/hw1_1.metadata.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_swig_and_mongodb/hello_world_combined/hello_world_combined/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_swig_and_mongodb/hello_world_combined/hello_world_combined/views/hello.html",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_and_swig/hello_world_swig/hello_world_swig/package.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_and_swig/hello_world_swig/hello_world_swig/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_and_swig/hello_world_swig/hello_world_swig/views/hello.html",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express_and_swig/hello_world_swig/hello_world_swig/node_modules/consolidate/lib/consolidate.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express/hello_world_express/hello_world_express/package.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_using_express/hello_world_express/hello_world_express/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_mongodb_style/hello_world_mongodb/hello_world_mongodb/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/introduction_to_npm/intro_to_npm/intro_to_npm/package.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/introduction_to_npm/intro_to_npm/intro_to_npm/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_mongodb_style/hello_world_mongodb/hello_world_mongodb/npm-debug.log",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/introduction_to_npm/intro_to_npm/intro_to_npm/node_modules/consolidate/package.json",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/asynchronous_vs_synchronous/async_vs_sync/script.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/asynchronous_vs_synchronous/async_vs_sync/app.js",
+		"/Users/barry/Google Drive/000_Work/1_Learning/mongodb university/week_1_introduction/hello_world_on_node_js/hello_world_http/hello_world_http/app.js",
+		"/Users/barry/du-results.txt",
+		"/Users/barry/.mplayer/config",
+		"/Users/barry/.profile",
+		"/Users/barry/.barryrc",
+		"/Users/barry/.ssh/known_hosts",
+		"/Users/barry/.gitconfig",
+		"/Users/barry/.gitignore_global",
+		"/Users/barry/dev/projects/js/nodejs-playings/README.md",
+		"/Users/barry/dev/projects/js/nodejs-playings/readme.js",
+		"/Users/barry/Desktop/sites.xml",
+		"/Users/barry/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/5770E009-2412-4D4A-8AFD-36BFC95CA9CC/charm.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/crossdomain.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/crossdomain.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/bin-release/swfobject.js",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/assets/style/global.css",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/bin/.gitignore",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/.gitignore",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate/build/assets/xml/MenuMakerSettings.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate/build/assets/style/global.css",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/xml/combo board sample xml.xml",
+		"/Users/barry/dev/projects/charmcreative/youcreate-build/build/ant/export/air/build.properties",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/config/bin/assets/xml/brands.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate/build/.actionScriptProperties",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/config/bin/assets/xml/generatedBrands.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/.actionScriptProperties",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-build/build/.actionScriptProperties",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-build/build/src/YouCreateWorldCup.mxml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-build/build/src/YouCreateWorldCup-app.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-build/build/.project",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate/build/assets/xml/PreFilledMenus.xml",
+		"/Users/barry/dev/projects/flex-as3/flex-utilities/Squiggly/main/build.xml",
+		"/Users/barry/dev/tools/flex-sdk/4.6.0-AIR-3.5/frameworks/flex-config.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/html-template/index.template.html",
+		"/Applications/Adobe Flash Builder 4.6/eclipse/configuration/config.ini",
+		"/Applications/Adobe Flash Builder 4.6/configuration/config.ini",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex-build/MenuBoardMaker/.project",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex-build/MenuBoardMaker/.sourceMate",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex-build/MenuBoardMaker/.actionScriptProperties",
+		"/Users/barry/dev/projects/charmcreative/0_mbm_posters/IndexController.php",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/xml/combo board sample.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/src/uk/co/charm/coke/services/SaveHighPDF.as",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/config/bin/assets/xml/templates.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/config/bin/assets/xml/generatedBrans.xml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-youcreate/build/config/bin/assets/xml/generatedBrans_bck.xml",
+		"/Library/Application Support/Macromedia/mms.cfg",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/html-template/swfobject.js",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/bin-debug/MenuBoardMaker.html",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/html-template/playerProductInstall.swf",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker/.project",
+		"/Users/barry/Sites/index.html",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-bazzani/build/.project",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuMaker-flex/src/MenuMaker.mxml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/test2/.project",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/test/.project",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/src/CokeWithFoodTool.mxml",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/test2/.actionScriptProperties",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/test/.actionScriptProperties",
+		"/Users/barry/dev/projects/charmcreative/0_projects/youcreate-build/build/.flowerProperties",
+		"/Users/barry/dev/projects/flex-as3/robotlegs-framework.wiki/Robotlegs-Internals.md",
+		"/Users/barry/dev/SourceMate 3.0 Enterprise Edition License - Order.txt",
+		"/Users/barry/dev/SourceMate 3.0 Enterprise Edition License - Order",
+		"/private/etc/apache2/httpd.conf.pre-update",
+		"/private/etc/apache2/users/barry.conf",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker-app/bin-debug/MenuBoardMaker.html",
+		"/Users/barry/dev/projects/charmcreative/0_projects/menuboardmaker-flex/MenuBoardMaker-app/.project",
+		"/Users/barry/dev/workspaces/charm-eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexbuilder.css.editor.prefs",
+		"/Users/barry/dev/workspaces/charm-eclipse-workspace/.metadata/.plugins/br.jgesser.notepad/dialog_settings.xml",
+		"/Users/barry/dev/workspaces/charm-eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/11/47/refactorings.history",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/ant/export/air/build.xml",
+		"/Users/barry/dev/projects/charmcreative/youcreate-build/build/src/uk/co/charm/coke/view/content/CreateAMenuContainer.mxml",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/assets/xml/PreFilledMenus.xml",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/assets/xml/MenuMakerSettings.xml",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/ant/export/air/build.properties",
+		"/Users/barry/dev/projects/charmcreative/youcreate-build/build/src/CokeWithFoodTool-app.xml",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/src/CokeWithFoodTool-app.xml",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/src/uk/co/charm/coke/view/content/CreateAMenuContainer.mxml",
+		"/Users/barry/dev/projects/charmcreative/youcreate/build/bin/CokeWithFoodTool-app.xml"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.js",
+			"*",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"addComment",
+			".update",
+			"hw3.3",
+			"hw3.2",
+			"insert",
+			"insertEntry",
+			"inserting blog entry",
+			"hw3.2",
+			"TODO: hw2.3",
+			"isLoggedInMiddleware",
+			"todo",
+			"TODO: hw2.3",
+			"}]);\n",
+			"import",
+			"\"*\",",
+			"jdk",
+			"011-Coke-Footer-Red_Footer_.png",
+			"unit",
+			"CERT_NAME",
+			"-keystore",
+			"<brand id",
+			"compile",
+			"playerglobal.version",
+			"intro",
+			"youcreate",
+			"<item type=\"menuSection\">",
+			"<item type=\"menuItem\">",
+			"£",
+			"<item type=\"menuItem\">",
+			"<item type=\"menuSection\">",
+			"£",
+			"<item type=\"menuItem\">",
+			"<item type=\"menuSection\">",
+			"£",
+			"<item type=\"menuItem\">",
+			"<item type=\"menuSection\">",
+			"£",
+			"<board width=\"533\" height=\"355\" backgroundImagePath=\"images/backgrounds/coke-red/menu-board/A_LS_533x355.png\" type=\"menuBoard\" columnCount=\"1\">\n  <item type=\"text\" id=\"boardTitleCombo\" text=\"Burgers &amp; Pizza\" x=\"30\" y=\"22\" width=\"251\" height=\"28\" color=\"ffffff\" fontSize=\"90\" fontFamily=\"Gotham\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n  <item type=\"comboItem\">\n    <item type=\"text\" id=\"sectionTitle\" text=\"Burgers\" x=\"20\" y=\"90\" width=\"52\" height=\"13\" color=\"0\" fontSize=\"38\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular1\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular1\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular1\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular1\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n  </item>\n  <item type=\"comboItem\">\n    <item type=\"text\" id=\"sectionTitle\" text=\"Burgers\" x=\"20\" y=\"90\" width=\"52\" height=\"13\" color=\"0\" fontSize=\"38\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular2\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular2\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular2\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular2\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n  </item>\n  <item type=\"comboItem\">\n    <item type=\"text\" id=\"sectionTitle\" text=\"Burgers\" x=\"20\" y=\"90\" width=\"52\" height=\"13\" color=\"0\" fontSize=\"38\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular3\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular3\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular3\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular3\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n  </item>\n  <item type=\"comboItem\">\n    <item type=\"text\" id=\"sectionTitle\" text=\"Burgers\" x=\"20\" y=\"90\" width=\"52\" height=\"13\" color=\"0\" fontSize=\"38\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular4\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular4\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular4\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n    <item type=\"comboItem\">\n      <item type=\"text\" id=\"menuItemName\" text=\"Burger regular4\" x=\"0\" y=\"16\" width=\"84\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemDescription\" text=\"with Lettuce Tomato &amp; Onions\" x=\"86\" y=\"19\" width=\"100\" height=\"7\" color=\"0\" fontSize=\"19\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n      <item type=\"text\" id=\"menuItemPrice\" text=\"£1.00\" x=\"466\" y=\"16\" width=\"31\" height=\"10\" color=\"0\" fontSize=\"30\" fontFamily=\"Verdana\" fontStyle=\"normal\" hAlign=\"left\" vAlign=\"middle\"/>\n    </item>\n  </item>\n</board> ",
+			"<item type=\"menuItem\">",
+			"<item type=\"menuSection\">",
+			"£",
+			"A_PORTRAIT",
+			"A_LANDSCAPE",
+			"A_PORTRAIT",
+			"GothamMedium",
+			"GothamMediumnocff\nGothamMediumnocf",
+			"gotham",
+			"NaN",
+			"boardType",
+			"text",
+			"image",
+			"35",
+			">\n",
+			"008-CapriSun-Orange_330ml_Pouch\nCapriSun",
+			"008-CapriSun-Orange_330ml_Pouch\nCapriSun-Orange_330ml_Pouch",
+			"008-CapriSun-Orange_330ml_Pouch",
+			"000-Appletiser-330ml_Can",
+			"001-Sandwiches-Bacon.png",
+			"title",
+			"flex",
+			"men",
+			">\n",
+			"name",
+			" 		<",
+			"\n 		",
+			"barry",
+			"Your website Barry",
+			"CokeWithFoodTool-2013-changes",
+			"/Users/barry/dev/projects/charmcreative/youcreate/build",
+			"CokeWithFoodTool-2013-changes",
+			"ySize=\"-",
+			"y=\"-",
+			"y=\"-25.9\"",
+			"y=\"-5.9\"",
+			"y=\"-",
+			"<textStyle type=\"menuPriceSize\" fontFamily=\"FuturaPT\" fontSize=\"8\" color=\"0x94A7AA\" fontStyle=\"normal\" itemSizeGap=\"-10\"/>",
+			"<textStyle type=\"menuPriceSize\" fontFamily=\"CardoRegular\" fontSize=\"8\" color=\"0x5e7468\" fontStyle=\"normal\" itemSizeGap=\"2\"/>",
+			"hAlign=\"center\" fontFamily=\"CardoRegular\" fontSize=\"14\" color=\"0x000000\"",
+			"hAlign=\"center\" fontFamily=\"CardoRegular\" fontSize=\"14\" color=\"0xffffff\"",
+			"height=\"30\" hAlign=\"center\" fontFamily=\"CardoRegular\" fontSize=\"18\"",
+			"itemSizeGap",
+			"ysize",
+			"drink",
+			"generate",
+			"\"-\\",
+			"\"-",
+			">\n",
+			"museo",
+			"MuseoSans300Regular",
+			"museo",
+			"£",
+			"fontsize=",
+			"fontsizesize",
+			"0x00",
+			"select",
+			"drinkComplete",
+			"checkAllCompleted",
+			"menuComplet",
+			"generateMenuItems",
+			"generatese",
+			"snipp",
+			"valign",
+			"6-10",
+			"size1",
+			"<item type=\"background\" path=\"assets/images/new/backs/",
+			"flash.fonts.AFEFontManager",
+			"0.9.03",
+			"1.3.7",
+			"MenuMaker",
+			"assets",
+			"flex",
+			"application",
+			"app_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<item type=\"comboItem\">",
+			"",
+			"<item type=\"comboItem\">",
+			"",
+			"<item type=\"comboItem\">",
+			"",
+			"<item type=\"comboItem\">",
+			"",
+			"<item type=\"comboItem\">",
+			"",
+			"C_PORTRAIT",
+			"C_LANDSCAPE",
+			"C_PORTRAIT",
+			"B_SQUARE",
+			"null",
+			"y=\"0\"",
+			"<textStyle type=\"menuPriceSize\" fontFamily=\"FuturaPT\" fontSize=\"8\" color=\"0x94A7AA\" fontStyle=\"normal\" itemSizeGap=\"-12\"/>",
+			"<textStyle type=\"menuPriceSize\" fontFamily=\"CardoRegular\" fontSize=\"8\" color=\"0x5e7468\" fontStyle=\"normal\" itemSizeGap=\"-12\"/>",
+			"hAlign=\"center\" fontFamily=\"CardoRegular\" fontSize=\"9\" color=\"0x000000\"",
+			"hAlign=\"center\" fontFamily=\"CardoRegular\" fontSize=\"9\" color=\"0xffffff\"",
+			"height=\"30\" hAlign=\"center\" fontFamily=\"CardoRegular\" fontSize=\"10\"",
+			"FuturaPT",
+			"6-10"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "week_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 182.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "week_3_schema_design/homework_3_3_mongoproc_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1568,
+								1568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "week_3_schema_design/homework_3_1/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/barry/Google Drive/000_Work/1_Learning/mongodb_university/mongodb-university.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mongodb_university_node_js.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"du-res",
+				"barry/du-results.txt"
+			],
+			[
+				"find-jdk",
+				"barry/find-jdk.txt"
+			],
+			[
+				"aliasrc",
+				"barry/.aliasrc"
+			],
+			[
+				"known",
+				"barry/.ssh/known_hosts"
+			],
+			[
+				".pro",
+				"barry/.bash_profile"
+			],
+			[
+				".gitignore_global",
+				"barry/.gitignore_global"
+			],
+			[
+				".gitc",
+				"barry/.gitconfig"
+			],
+			[
+				"youcreatebrands",
+				"youcreate-youcreate/build/assets-for-bin/assets/xml/YouCreateBrands.xml"
+			],
+			[
+				"prefilledm",
+				"youcreate/build/assets/xml/PreFilledMenus1.xml"
+			],
+			[
+				"youcreateb",
+				"youcreate-youcreate/build/assets-for-bin/assets/xml/YouCreateBrands.xml"
+			],
+			[
+				"generatedbrands.xml",
+				"charmcreative/0_projects/youcreate-youcreate/build/config/bin/assets/xml/generatedBrands.xml"
+			],
+			[
+				"generatedbrands",
+				"youcreate-youcreate/build/config/bin/assets/xml/generatedBrands.xml"
+			],
+			[
+				"defaultmen",
+				"youcreate/build/assets/xml/DefaultMenuStyles.xml"
+			],
+			[
+				"prefill",
+				"youcreate/build/assets/xml/PreFilledMenus.xml"
+			],
+			[
+				"prefilled",
+				"youcreate/build/assets/xml/PreFilledMenus.xml"
+			],
+			[
+				"menumakersettings.",
+				"youcreate/build/assets/xml/MenuMakerSettings.xml"
+			],
+			[
+				"boardsamplexmlmodel.as",
+				"MenuBoardMaker/src/uk/co/charm/coke/mbm/model/board/BoardSampleXMLModel.as"
+			],
+			[
+				"createamenu",
+				"charmcreative/youcreate/build/src/uk/co/charm/coke/view/content/CreateAMenuContainer.mxml"
+			],
+			[
+				"-app",
+				"charmcreative/youcreate-build/build/src/CokeWithFoodTool-app.xml"
+			],
+			[
+				"menumakersettin",
+				"charmcreative/youcreate/build/assets/xml/MenuMakerSettings.xml"
+			],
+			[
+				"buil.properties",
+				"charmcreative/youcreate-build/build/ant/export/air/build.properties"
+			],
+			[
+				"createamen",
+				"charmcreative/youcreate-build/build/src/uk/co/charm/coke/view/content/CreateAMenuContainer.mxml"
+			],
+			[
+				"coke-app",
+				"charmcreative/youcreate/build/src/CokeWithFoodTool-app.xml"
+			],
+			[
+				"cokewithfood",
+				"charmcreative/youcreate/build/bin/CokeWithFoodTool-app.xml"
+			],
+			[
+				"cokewith",
+				"charmcreative/youcreate/build/src/CokeWithFoodTool-app.xml"
+			],
+			[
+				"sectionitem",
+				"charmcreative/youcreate/build/src_libs/com/menumaker/items/SectionItem.as"
+			],
+			[
+				"menumak",
+				"charmcreative/youcreate/build/assets/xml/MenuMakerSettings.xml"
+			],
+			[
+				"menumakers",
+				"charmcreative/youcreate/build/assets/xml/MenuMakerSettings.xml"
+			],
+			[
+				"build.xml",
+				"charmcreative/youcreate/build/ant/export/air/build.xml"
+			],
+			[
+				"cokewithfoodtool-a",
+				"youcreate/build/src/CokeWithFoodTool-app.xml"
+			],
+			[
+				"menumakere",
+				"youcreate/build/src_libs/com/menumaker/enums/PageItemsTypeEnums.as"
+			],
+			[
+				"mediator",
+				"youcreate/build/src/uk/co/charm/coke/view/login/LoginMediator.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/barry-home-sublime-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
