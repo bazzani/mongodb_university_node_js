@@ -13,7 +13,7 @@ function PostsDAO(db) {
 
     this.insertEntry = function (title, body, tags, author, callback) {
         "use strict";
-        console.log("inserting blog entry" + title + body);
+        console.log("inserting blog entry : " + title + ' :: ' + body);
 
         // fix up the permalink to not include whitespace
         var permalink = title.replace( /\s/g, '_' );
@@ -29,8 +29,16 @@ function PostsDAO(db) {
                 "date": new Date()}
 
         // now insert the post
-        // hw3.2 TODO
-        callback(Error("insertEntry NYI"), null);
+        posts.insert(post, function(err, result) {
+            "use strict";
+
+            if(!err) {
+                console.log("Inserted new post")
+                return callback(null, result[0].permalink);
+            }
+
+            return callback(err, null);
+        });
     }
 
     this.getPosts = function(num, callback) {
